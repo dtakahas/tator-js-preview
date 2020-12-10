@@ -1,6 +1,8 @@
 # tator-js
 The generated code is under [tator-js-new-bindings](/tator-js-new-bindings)
 
+Good example [here](https://github.com/dtakahas/tator-js-preview/blob/main/tator-js-new-bindings/docs/TatorApi.md#example)
+
 It had a problem with 2 models: `EncodeConfig` and `ResolutionConfig`. They produced this error:
 ```
 [main] WARN  o.o.codegen.DefaultCodegen - Schema Object<String, Object> not found
