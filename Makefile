@@ -7,4 +7,4 @@ js-bindings:
 		openapitools/openapi-generator-cli:v5.0.0-beta \
 		generate -c /pwd/config.json \
 		-i /pwd/tator-openapi-schema.yaml \
-		-g javascript -o /pwd/tator-js-new-bindings
+		-g javascript -o /pwd/tator-js-with-promises

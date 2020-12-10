@@ -1,7 +1,9 @@
 # tator-js
-The generated code is under [tator-js-new-bindings](/tator-js-new-bindings)
+The 2 versions of the generated code are under [tator-js-no-promises](/tator-js-no-promises) and [tator-js-with-promises](/tator-js-with-promises)
 
-Good example [here](https://github.com/dtakahas/tator-js-preview/blob/main/tator-js-new-bindings/docs/TatorApi.md#example)
+Good examples here [with promises](https://github.com/dtakahas/tator-js-preview/blob/main/tator-js-with-promises/docs/TatorApi.md#example) and [without promises](https://github.com/dtakahas/tator-js-preview/blob/main/tator-js-no-promises/docs/TatorApi.md#example).
+
+## Problems
 
 It had a problem with 2 models: `EncodeConfig` and `ResolutionConfig`. They produced this error:
 ```

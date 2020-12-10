@@ -1,4 +1,5 @@
 {
-  "packageName": "tator",
-  "packageVersion": "0.0.1"
+  "projectName": "tator-js",
+  "projectVersion": "0.0.1",
+  "usePromises": true
 }
